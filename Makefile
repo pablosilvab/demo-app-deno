@@ -1,2 +1,2 @@
 run:
-	deno run index.ts
+	deno run --allow-net index.ts 
